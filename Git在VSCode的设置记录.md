@@ -29,7 +29,8 @@ ssh-keygen -t rsa -C "zhangzhiqiang81@yeah.net"
 
 ssh -T git@github.com
 
-#### 在Git Bash中克隆Github上的仓库
+## 在Git Bash中克隆Github上的仓库 ##
+
 1、首先从github上复制仓库的地址（ssh的）
 2、在git bash中克隆：
 git clone git@github.com:地址
